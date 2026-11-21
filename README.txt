@@ -30,3 +30,8 @@ A responsive multi-page corporate website built with HTML, CSS and vanilla JavaS
 - Confirm all contact details and the preferred enquiry email address.
 - The email button currently uses `enquiry@rayhill.com` as a placeholder; replace it with the company's confirmed email.
 - Images are loaded from Unsplash, and fonts are loaded from Google Fonts, so an internet connection is required for those assets.
+
+PRODUCT GALLERY: Replace images/product-1.jpg to product-5.jpg with your own JPEG photos, keeping the same filenames. Edit products.html for product text. Gallery styling and interactions are in product-gallery.css and product-gallery.js.
+
+SECOND PRODUCT
+Replace images/product2-1.jpg through product2-5.jpg with your own photos. In products.html, edit the Product 2 selector label and product-two section heading, type, description and features.
